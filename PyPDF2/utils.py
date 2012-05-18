@@ -47,7 +47,7 @@ __author_email__ = "3604266+bzielinski@users.noreply.github.com"
 #        proxy = staticmethod(proxy)
 
 #custom implementation of warnings.formatwarning 
-def customwarning(message, category, filename, lineno, line=None):
+def _formatwarning(message, category, filename, lineno, line=None):
     file = filename.replace("/","\\").rsplit("\\",1)[1] # find the file name
     return "%s: %s [%s:%s]\n" % (category.__name__, message, file, lineno)
 
