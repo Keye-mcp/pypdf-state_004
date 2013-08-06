@@ -41,8 +41,8 @@ setup(
         author_email="3604266+bzielinski@users.noreply.github.com",
         maintainer="Phaseit, Inc.",
         maintainer_email="18164686+vheikkila@users.noreply.github.com",
-        url="http://knowah.github.com/PyPDF2",
-        download_url="http://github.com/knowah/PyPDF2/tarball/master",
+        url="http://mstamy2.github.com/PyPDF2",
+        download_url="http://github.com/mstamy2/PyPDF2/tarball/master",
         classifiers = [
             "Development Status :: 5 - Production/Stable",
             "Intended Audience :: Developers",
