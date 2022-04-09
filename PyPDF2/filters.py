@@ -28,9 +28,7 @@
 # POSSIBILITY OF SUCH DAMAGE.
 
 
-"""
-Implementation of stream filters for PDF.
-"""
+"""Implementation of stream filters for PDF."""
 __author__ = "Mathieu Fenniak"
 __author_email__ = "3604266+bzielinski@users.noreply.github.com"
 
