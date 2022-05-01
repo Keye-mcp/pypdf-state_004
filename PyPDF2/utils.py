@@ -34,15 +34,7 @@ __author_email__ = "3604266+bzielinski@users.noreply.github.com"
 
 from typing import Dict
 
-# See https://github.com/py-pdf/PyPDF2/issues/779
-from PyPDF2.errors import (  # noqa
-    STREAM_TRUNCATED_PREMATURELY,
-    PageSizeNotDefinedError,
-    PdfReadError,
-    PdfReadWarning,
-    PdfStreamError,
-    PyPdfError,
-)
+from PyPDF2.errors import STREAM_TRUNCATED_PREMATURELY, PdfStreamError
 
 bytes_type = type(bytes())  # Works the same in Python 2.X and 3.X
 
