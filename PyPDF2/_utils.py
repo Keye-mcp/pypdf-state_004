@@ -31,10 +31,10 @@ Utility functions for PDF library.
 __author__ = "Mathieu Fenniak"
 __author_email__ = "3604266+bzielinski@users.noreply.github.com"
 
+import warnings
 from codecs import getencoder
 from io import BufferedReader, BufferedWriter, BytesIO, FileIO
 from typing import Any, Dict, Optional, Tuple, Union, overload
-import warnings
 
 try:
     # Python 3.10+: https://www.python.org/dev/peps/pep-0484/
