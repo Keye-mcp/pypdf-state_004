@@ -104,3 +104,9 @@ file_stream = BytesIO()
 blob.download_to_file(file_stream)
 reader = PdfReader(file_stream)
 ```
+
+
+## See also
+
+- [Post-processing in text extraction](post-processing-in-text-extraction.md)
+- [Suppressing warnings](suppress-warnings.md)

@@ -80,3 +80,9 @@ There are several online validators that allow you to simply upload the document
 
 At the moment, pypdf does not make any guarantees regarding PDF/A.
 [Support is very welcome](https://github.com/py-pdf/pypdf/labels/is-pdf%2Fa-compliance).
+
+
+## See also
+
+- [Installation](installation.md)
+- [Reading document metadata](metadata.md)

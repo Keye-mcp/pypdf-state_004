@@ -177,3 +177,9 @@ for page in writer.pages:
         page.transfer_rotation_to_content()
     page.merge_page(background, over=False)
 ```
+
+
+## See also
+
+- [Cropping and transforming pages](cropping-and-transforming.md)
+- [Reducing the file size](file-size.md)

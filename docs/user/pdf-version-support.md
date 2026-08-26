@@ -44,3 +44,9 @@ for them:
 
 * [pyHanko](https://pyhanko.readthedocs.io/en/latest/index.html): Cryptographically sign a PDF ([#302](https://github.com/py-pdf/pypdf/issues/302))
 * [camelot-py](https://pypi.org/project/camelot-py/): Table Extraction ([#231](https://github.com/py-pdf/pypdf/issues/231))
+
+
+## See also
+
+- [Security considerations](security.md)
+- [Installation](installation.md)

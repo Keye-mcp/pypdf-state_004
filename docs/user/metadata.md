@@ -323,3 +323,8 @@ writer.write("out-xmp-update.pdf")
 ```
 
 For further details on modifying the structure, please refer to {py:mod}`xml.dom.minidom`.
+
+
+## See also
+
+- [Extracting text](extract-text.md)

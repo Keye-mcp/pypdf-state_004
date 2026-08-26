@@ -393,3 +393,8 @@ multiple ways to do so:
 However, text extraction cannot be completely prevented if people should still
 be able to read the document. In the worst case, people can make a screenshot,
 print it, scan it, and run OCR over it.
+
+
+## See also
+
+- [Post-processing in text extraction](post-processing-in-text-extraction.md)

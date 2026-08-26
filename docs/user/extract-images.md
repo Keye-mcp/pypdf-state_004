@@ -70,3 +70,9 @@ for page in reader.pages:
             # Handle exceptions.
             pass
 ```
+
+
+## See also
+
+- [Extracting text](extract-text.md)
+- [Post-processing in text extraction](post-processing-in-text-extraction.md)

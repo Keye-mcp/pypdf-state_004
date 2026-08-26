@@ -211,3 +211,9 @@ Nested Outline Hierarchy:
   - Section 1.1 (Page 1)
   - Section 1.2 (Page 1)
 ```
+
+
+## See also
+
+- [Merging PDFs](merging-pdfs.md)
+- [Cropping and transforming pages](cropping-and-transforming.md)

@@ -63,3 +63,9 @@ writer = PdfWriter(clone_from=reader)
 # Save the new PDF to a file
 writer.write("out-decrypt.pdf")
 ```
+
+
+## See also
+
+- [Extracting text](extract-text.md)
+- [Reading document metadata](metadata.md)

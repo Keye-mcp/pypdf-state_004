@@ -84,3 +84,8 @@ writer.write("out.pdf")
 The names beginning with a slash character are part of the PDF file format. They are
 included here to ease searching the pypdf documentation
 for these names from the PDF specification.
+
+
+## See also
+
+- [Merging PDFs](merging-pdfs.md)

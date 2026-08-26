@@ -265,3 +265,9 @@ There is still some work to do, for instance, to insert margins between and arou
 
 Especially when combining {func}`~pypdf._page.PageObject.merge_page` with transformations, you might end up with a cropped PDF file.
 In these cases, consider setting `expand=True` to re-calculate the corresponding media box.
+
+
+## See also
+
+- [Merging PDFs](merging-pdfs.md)
+- [Adding a watermark](add-watermark.md)

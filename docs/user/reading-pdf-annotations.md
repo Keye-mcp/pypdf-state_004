@@ -118,3 +118,9 @@ for page in reader.pages:
                 fileobj = annotation.get_object()["/FS"]
                 attachments[fileobj["/F"]] = fileobj["/EF"]["/F"].get_data()
 ```
+
+
+## See also
+
+- [Adding PDF annotations](adding-pdf-annotations.md)
+- [Extracting text](extract-text.md)

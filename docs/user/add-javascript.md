@@ -23,3 +23,8 @@ writer.add_js("this.print({bUI:true,bSilent:false,bShrinkToFit:true});")
 
 writer.write("out-print-window.pdf")
 ```
+
+
+## See also
+
+- [Reading document metadata](metadata.md)
