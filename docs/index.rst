@@ -20,21 +20,21 @@ You can contribute to `pypdf on GitHub <https://github.com/py-pdf/pypdf>`_.
    :caption: User Guide
    :maxdepth: 1
 
-   user/installation
-   user/robustness
-   user/security
-   user/suppress-warnings
+   user/setup/installation
+   user/setup/robustness
+   user/setup/security
+   user/setup/suppress-warnings
    user/metadata
-   user/extract-text
-   user/post-processing-in-text-extraction
-   user/extract-images
+   user/extraction/extract-text
+   user/extraction/post-processing-in-text-extraction
+   user/extraction/extract-images
    user/handle-attachments
    user/encryption-decryption
-   user/merging-pdfs
-   user/cropping-and-transforming
+   user/composition/merging-pdfs
+   user/composition/cropping-and-transforming
    user/reading-pdf-annotations
    user/adding-pdf-annotations
-   user/add-watermark
+   user/composition/add-watermark
    user/add-javascript
    user/viewer-preferences
    user/forms
