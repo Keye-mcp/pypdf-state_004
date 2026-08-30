@@ -1,6 +1,0 @@
-pillow
-pip-tools
-pre-commit
-pytest-cov
-flit
-wheel
